@@ -1,15 +1,29 @@
-# aerospace-portfolio
-Mechanical/Aerospace Engineering portfolio | Aspiring NASA / SpaceX Engineer | Alexandria, Egypt
-# Mohamed — Aerospace Portfolio
+# Mohamad Ashraf — Aerospace Portfolio
+Alexandria, Egypt | Thanaweya 2027 | Goal: Mechanical/Aerospace Engineer @ NASA/SpaceX
 
-18, Alexandria, Egypt. Goal: Mechanical/Aerospace Engineer @ NASA/SpaceX.
+I am building a path to become an engineer in space. This repo documents my projects, MIT Physics self-study, and rocket builds.
 
-### What I'm building
-- Model rocket with Arduino telemetry (OpenRocket + BMP280)
-- Rover with computer vision
+## 🚀 Current Projects
+- **Model Rocket V1** - Designed in OpenRocket, building with Arduino telemetry (BMP280 sensor). Target: 500m apogee. [Design files](./02-openrocket-designs/)
+- **MIT 8.01 Classical Mechanics** - 2 lectures/week, notes in English. [Notes](./01-mit-physics-notes/)
 
-### MIT 8.01 Physics Notes (2 lectures/week)
-- [Lecture 1: Power of Ten](./01-mit-physics-notes/lecture-01.md)
+## 📚 MIT Physics Notes - Progress
+- [done] Lecture 1: Power of Ten & Units
+- [ ] Lecture 2: 1D Kinematics
+- [ ] Lecture 3: Vectors
+(Check them as you go)
 
-### Skills
-SolidWorks / Onshape, Python, Arduino, OpenRocket
+## 🛠️ Skills
+- CAD: Onshape (now), Fusion 360 (soon)
+- Code: Python, Arduino C++
+- Tools: OpenRocket, GitHub, Fusion 360
+- Languages: Arabic (native), English (B2 -> C1), French (B1)
+
+## 🎯 Timeline
+- 2027: Finish Thanaweya, full ride to US
+- 2027-2031: BSc Mechanical Engineering (US)
+- 2029: SpaceX/NASA Internship
+- 2032+: Engineer @ SpaceX/NASA, Commercial Astronaut track
+
+---
+Contact: [mohamad.elhamarawy.2009@gmail.com]
