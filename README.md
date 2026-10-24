@@ -8,7 +8,7 @@ I am building a path to become an engineer in space. This repo documents my proj
 - **MIT 8.01 Classical Mechanics** - 2 lectures/week, notes in English. [Notes](./01-mit-physics-notes/)
 
 ## 📚 MIT Physics Notes - Progress
-- [done] Lecture 1: Power of Ten & Units
+- [✔️] Lecture 1: Power of Ten & Units
 - [ ] Lecture 2: 1D Kinematics
 - [ ] Lecture 3: Vectors
 (Check them as you go)
