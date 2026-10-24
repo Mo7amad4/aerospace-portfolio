@@ -1,29 +1,35 @@
-# Mohamad Ashraf — Aerospace Portfolio
-Alexandria, Egypt | Thanaweya 2027 | Goal: Mechanical/Aerospace Engineer @ NASA/SpaceX
+# I Taught My Rocket How To Not Crash
 
-I am building a path to become an engineer in space. This repo documents my projects, MIT Physics self-study, and rocket builds.
+From 2cm to 213m in one night.
 
-## 🚀 Current Projects
-- **Model Rocket V1** - Designed in OpenRocket, building with Arduino telemetry (BMP280 sensor). Target: 500m apogee. [Design files](./02-openrocket-designs/)
-- **MIT 8.01 Classical Mechanics** - 2 lectures/week, notes in English. [Notes](./01-mit-physics-notes/)
+### v1: The Lawn Dart
+![v1 crash](./images/v1-0.02m-crash.png)
+- **Apogee:** 0.02m (my desk is taller)
+- **Stability:** -1.12 cal — Red dot in front of Blue dot = instant backflip
+- **Mass:** 580g with CG override wrong
+- **Lesson:** CG must be in front of CP
 
-## 📚 MIT Physics Notes - Progress
-- [✔️] Lecture 1: Power of Ten & Units
-- [ ] Lecture 2: 1D Kinematics
-- [ ] Lecture 3: Vectors
-(Check them as you go)
+### v2: The Missile
+- **Apogee:** 214m — it flew!
+- **But:** C6-P motor (P = Plugged) = no parachute
+- **Ground hit:** 95 ft/s = crash
+- **Lesson:** P means never pops
 
-## 🛠️ Skills
-- CAD: Onshape (now), Fusion 360 (soon)
-- Code: Python, Arduino C++
-- Tools: OpenRocket, GitHub, Fusion 360
-- Languages: Arabic (native), English (B2 -> C1), French (B1)
+### v3: The One That Lands
+![v3 success](./images/v3-213m-apogee.png)
+- **Motor:** Estes C6-5 (C = 10Ns power, 6 = 6N thrust, 5 = 5s delay to pop chute)
+- **Apogee:** 213m
+- **Stability:** 3.61 cal (CG 38.7cm, CP 47.7cm) — a bit too stable, but safe
+- **Flight time:** 68s
+- **Landing speed:** 12.7 ft/s with parachute = safe
+- **Velocity off rod:** 68 ft/s = beats wind
 
-## 🎯 Timeline
-- 2027: Finish Thanaweya, full ride to US
-- 2027-2031: BSc Mechanical Engineering (US)
-- 2029: SpaceX/NASA Internship
-- 2032+: Engineer @ SpaceX/NASA, Commercial Astronaut track
+### Files in this repo
+- `/designs/aerospace-v3.ork` - OpenRocket design file
+- `/images/` - flight screenshots
+- `ROCKETRY_TERMS.md` - glossary: CG, CP, C6-5, apogee, cal explained
 
----
-Contact: [mohamad.elhamarawy.2009@gmail.com]
+**Tool:** OpenRocket 22.02
+**Next:** v4 with smaller fins to get stability from 3.61 to 2.0 cal
+
+- Mohamad Ashraf, aspiring Aerospace Engineer
