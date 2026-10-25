@@ -3,7 +3,7 @@
 From 2cm to 213m in one night.
 
 ### v1: The Lawn Dart
-![v1 crash](./images/v1-0.02m-crash.png)
+![v1 sim](./02-openrocket-designs/rocket-v1-sim.png)
 - **Apogee:** 0.02m (my desk is taller)
 - **Stability:** -1.12 cal — Red dot in front of Blue dot = instant backflip
 - **Mass:** 580g with CG override wrong
@@ -16,7 +16,7 @@ From 2cm to 213m in one night.
 - **Lesson:** P means never pops
 
 ### v3: The One That Lands
-![v3 success](./images/v3-213m-apogee.png)
+![v3 sim](./02-openrocket-designs/rocket-v3-sim.png)
 - **Motor:** Estes C6-5 (C = 10Ns power, 6 = 6N thrust, 5 = 5s delay to pop chute)
 - **Apogee:** 213m
 - **Stability:** 3.61 cal (CG 38.7cm, CP 47.7cm) — a bit too stable, but safe
