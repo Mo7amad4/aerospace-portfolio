@@ -29,5 +29,5 @@ Written after my rocket went 2 centimeters in v1 and 213m in v3.
 - **Weathercocking:** Rocket turns into wind because it's too stable.
 
 ---
-Built in OpenRocket 22.02, Estes motors database, from Al Khadrah, Egypt.
+Built in OpenRocket 22.02, Estes motors database.
 v1 = fail, v2 = fly, v3 = fly + land.
