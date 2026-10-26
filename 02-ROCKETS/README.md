@@ -25,7 +25,7 @@ From 2cm to 213m in one night.
 - **Velocity off rod:** 68 ft/s = beats wind
 
 ### v4: The Balanced One
-![v4 sim](openrocket-design/rocket-v4-sim.png)
+![v4 sim](./openrocket-design/rocket-v4-sim.png)
 - **Motor:** Estes D12-5 [upgraded from C6]
 - **Apogee:** 256m
 - **Stability:** 1.61 cal / 11.6% — CG 36.8cm, CP 43.2cm 
