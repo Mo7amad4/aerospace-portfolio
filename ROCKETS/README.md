@@ -27,7 +27,7 @@ From 2cm to 213m in one night.
 ### Files in this repo
 - `/designs/aerospace-v3.ork` - OpenRocket design file
 - `/images/` - flight screenshots
-- `ROCKETRY_TERMS.md` - glossary: CG, CP, C6-5, apogee, cal explained
+- `ROCKETRY_TERMS.MD` - glossary: CG, CP, C6-5, apogee, cal explained
 
 **Tool:** OpenRocket 22.02
 **Next:** v4 with smaller fins to get stability from 3.61 to 2.0 cal
