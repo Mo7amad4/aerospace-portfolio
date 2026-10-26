@@ -37,8 +37,8 @@ From 2cm to 213m in one night.
 - **Change from v3:** Reduced fins + longer body + D motor — moved from 3.61 cal (over-stable) to 1.61 cal (ideal 1.5-2.0 range)
 - **Lesson:** 1.5-2.0 cal is the sweet spot, D12 gives 43m more altitude than C6
 ### Files in this repo
-- `designs/aerospace-v3.ork` - OpenRocket design file
-- `images/` - flight screenshots
+- `aerospace-v3.ork` - OpenRocket design file
+- `openrocket-design/` - flight screenshots
 - `ROCKETRY_TERMS.MD` - glossary: CG, CP, C6-5, apogee, cal explained
 
 **Tool:** OpenRocket 22.02
