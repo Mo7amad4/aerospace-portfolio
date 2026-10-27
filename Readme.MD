@@ -21,7 +21,7 @@ I am building a path to become an engineer in space. This repo documents my proj
 
 ## 🎯 Timeline
 - 2027: Finish Thanaweya, full ride to US
-- 2027-2031: BSc Mechanical Engineering (US)
+- 2027-2031: BSc Mechanical Engineering (US) & study the universe 
 - 2029: SpaceX/NASA Internship
 - 2032+: Engineer @ SpaceX/NASA, Commercial Astronaut track
 
