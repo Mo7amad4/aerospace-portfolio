@@ -1,7 +1,7 @@
 # Mohamad Ashraf — Aerospace Portfolio
 Alexandria, Egypt | Thanaweya 2027 | Goal: Mechanical/Aerospace Engineer @ NASA/SpaceX
 
-I am building a path acheave my dream in studying the universe and becoming an engineer in space. This repo documents my projects, MIT Physics self-study, and rocket builds.
+I am building a path to achieve my dream of studying the universe and becoming a space engineer. This repo documents my projects, MIT Physics self-study, and rocket builds.
 
 ## 🚀 Current Projects
 - **Model Rocket V1** - Designed in OpenRocket, building with Arduino telemetry (BMP280 sensor). Target: 500m apogee. [Design files](./02-ROCKETS/)
