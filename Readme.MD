@@ -9,7 +9,7 @@ I am building a path to study the universe and to become an engineer in space. T
 
 ## 📚 MIT Physics Notes - Progress
 - [✔️] Lecture 1: Power of Ten & Units
-- [ ] Lecture 2: 1D Kinematics
+- [✔️] Lecture 2: 1D Kinematics
 - [ ] Lecture 3: Vectors
 (Check them as you go)
 
