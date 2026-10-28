@@ -5,8 +5,7 @@ And I learnt that position vectors are the position of a vector from the Origin 
 direction is WHERE. So, for example. My Rocket is 200 meters from the ground in the direction of the sky with 
 the thruster force going upwards = +F_thrust y-hat and the force of its weight going down = -F_weight y-hat.
 
-+y-hat: direction going up
--y-hat: direction going down
+• +y-hat: direction going up
+• -y-hat: direction going down
 
-![Lecture 02 - Kinematics](Lecture02-1.png)
-(Lecture02-2.png)
+![Lecture 02 - Kinematics](Lecture02-1.png)(Lecture02-2.png)
