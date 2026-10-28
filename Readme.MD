@@ -4,7 +4,7 @@ Alexandria, Egypt | Thanaweya 2027 | Goal: Mechanical/Aerospace Engineer @ NASA/
 I am building a path to study the universe and to become an engineer in space. This repo documents my projects, MIT Physics self-study, and rocket builds.
 
 ## 🚀 Current Projects
-- **Model Rocket V1** - Designed in OpenRocket, building with Arduino telemetry (BMP280 sensor). Target: 500m apogee. [Design files](./02-openrocket-designs/)
+- **Model Rocket V1** - Designed in OpenRocket, building with Arduino telemetry (BMP280 sensor). Target: 500m apogee. [Design files](./02-ROCKETS/)
 - **MIT 8.01 Classical Mechanics** - 2 lectures/week, notes in English. [Notes](./01-mit-physics-notes/)
 
 ## 📚 MIT Physics Notes - Progress
