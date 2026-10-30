@@ -9,6 +9,6 @@ the thruster force going upwards = +F_thrust y-hat and the force of its weight g
 
 • -y-hat: direction going down
 
-![Lecture 02 - Kinematics](Lecture02-1.png)
+![Lecture 02 - Kinematics](Images/Lecture02-1.png)
 
-![Lecture 02 - Kinematics](Lecture02-2.png)
+![Lecture 02 - Kinematics](Images/Lecture02-2.png)
