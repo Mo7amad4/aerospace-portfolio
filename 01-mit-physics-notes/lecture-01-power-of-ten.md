@@ -4,4 +4,4 @@ Today I downloaded MIT 8.01 Classical Mechanics. I started Lecture 1: The Power 
 
 
 
-![Lecture 01 - Powers of Ten](Lecture01.png)
+![Lecture 01 - Powers of Ten](Images/Lecture01.png)
