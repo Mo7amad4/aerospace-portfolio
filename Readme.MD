@@ -10,8 +10,8 @@ My obsession since science and math classes was the mystery of this Universe. As
 ## 📚 MIT Physics Notes - Progress
 - [✔️] Lecture 1: Power of Ten & Units
 - [✔️] Lecture 2: 1D Kinematics
-- [ ] Lecture 3: Vectors
-(Check them as you go)
+- [✔️] Lecture 3: Vectors
+
 
 ## 🛠️ Skills
 - CAD: Onshape (now), Fusion 360 (soon)
