@@ -11,6 +11,7 @@ My obsession since science and math classes was the mystery of this Universe. As
 - [✔️] Lecture 1: Power of Ten & Units
 - [✔️] Lecture 2: 1D Kinematics
 - [✔️] Lecture 3: Vectors
+- [✔️] Lecture 4: Dot & cross vector product 
 
 
 ## 🛠️ Skills
