@@ -1,5 +1,3 @@
-# Lecture 4 - What I Learned | My V4 Rocket
-
 My V4 starts at rest on the pad: v0 = 0
 Engine fires, it goes up.
 
@@ -27,6 +25,7 @@ x = 0 + 1/2 x 2 x 25 = 25 m
 3 equations = my rocket's control panel.
 One for speed, one for height, one for when I lose the clock.
 
-![V4 Rocket Launch](assets/lecture04-1.png)
 
-![Formulas](assets/lecture04-2.png)
+![Lecture 04 - Dot & cross vector multiplication](Images/Lecture04-1.png)
+
+![Lecture 04 - Dot & cross vector multiplication](Images/Lecture04-2.png)
