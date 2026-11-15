@@ -1,8 +1,8 @@
-##My V4 starts at rest on the pad: v0 = 0
+## My V4 starts at rest on the pad: v0 = 0
 Engine fires, it goes up.
 
 
-# My Control Panel
+ My Control Panel
 
 **1. How fast?**
 v = v0 + a t
