@@ -1,5 +1,5 @@
  My V4 starts at rest on the pad: v0 = 0
-Engine fires, it goes up.
+Engine fires; it goes up.
 
  My Control Panel
 
