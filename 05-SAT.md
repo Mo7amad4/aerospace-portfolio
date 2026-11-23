@@ -4,16 +4,16 @@
 - [x] 2. Problem Solving
 - [x] 3. Multiplication / Exponents
 - [x] 4. Systems of Equations
-- [ ] 5. *Linear Graphs - Slope / Intercept / Analyzing*
-- [ ] 6. *Systems Graphs - Intersection Point*
+- [ ] 5. Linear Graphs - Slope / Intercept / Analyzing
+- [ ] 6. Systems Graphs - Intersection Point
 - [ ] 7. Inequalities
 - [ ] 8. Ratios / Percentages / Proportions
-- [ ] 9. Quadratics *+ Parabola Graph*
-- [ ] 10. Functions / Polynomials *+ Graph Reading*
+- [ ] 9. Quadratics + Parabola Graph
+- [ ] 10. Functions / Polynomials + Graph Reading
 - [ ] 11. Geometry - Triangles
 - [ ] 12. Geometry - Circles
 - [ ] 13. Geometry - Area / Volume
-- [ ] 14. Data / Statistics / Probability *+ Charts*
+- [ ] 14. Data / Statistics / Probability + Charts
 
 *READING LESSONS TO DO:*
 
@@ -21,5 +21,11 @@
 - [ ] 2. Vocabulary in Context
 - [ ] 3. Inference
 - [ ] 4. Author's Purpose / Tone
-- [ ] 5. *Charts / Data in Reading - Graph Analyzing*
+- [ ] 5. Charts / Data in Reading - Graph Analyzing
 
+*EXTRA - YOU FINISHED BUT DIDN'T WRITE:*
+
+- [x] English Vocabulary 75 words
+- [x] SAT Reading Passages Practice
+- [x] Portfolio - Circular Motion
+- [x] Portfolio - Newton's Law
