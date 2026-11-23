@@ -21,11 +21,5 @@
 - [ ] 2. Vocabulary in Context
 - [ ] 3. Inference
 - [ ] 4. Author's Purpose / Tone
-- [ ] 5. Charts / Data in Reading - Graph Analyzing
+- [ ] 5. Charts / Data in Reading - Graph Analysis
 
-*EXTRA - YOU FINISHED BUT DIDN'T WRITE:*
-
-- [x] English Vocabulary 75 words
-- [x] SAT Reading Passages Practice
-- [x] Portfolio - Circular Motion
-- [x] Portfolio - Newton's Law
