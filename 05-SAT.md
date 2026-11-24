@@ -8,7 +8,7 @@
 - [ ] 6. Systems Graphs - Intersection Point
 - [x] 7. Inequalities
 - [ ] 8. Ratios / Percentages / Proportions
-- [ ] 9. Quadratics + Parabola Graph
+- [x] 9. Quadratics + Parabola Graph
 - [ ] 10. Functions / Polynomials + Graph Reading
 - [ ] 11. Geometry - Triangles
 - [ ] 12. Geometry - Circles
