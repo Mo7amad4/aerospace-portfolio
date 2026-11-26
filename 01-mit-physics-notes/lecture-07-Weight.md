@@ -28,3 +28,4 @@
 - Bottom of circle: T - mg = ma -> feel heavier
 - Top of circle: T + mg = ma -> if a = g, T = 0 -> weightless
 
+![Lecture 07 - Weight](Images/Lecture07.png)
