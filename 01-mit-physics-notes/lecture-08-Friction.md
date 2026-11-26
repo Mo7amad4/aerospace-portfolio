@@ -1,12 +1,12 @@
-## - The Big Idea
+##  The Big Idea
 Friction is NOT a fixed force. It ADAPTS to you, until it can't anymore.
 
-## - Normal Force N
+##  Normal Force N
 > **Normal Force:** Force pushing surfaces together. Perpendicular.
 > $N = mg$ on flat ground
 > Example: 2kg box, $N = 2*10 = 20N$
 
-## - Static Friction (not moving)
+##  Static Friction (not moving)
 > **Static:** $f_s = F_{applied}$  (it matches you exactly)
 > **Max static:** $f_{s,max} = \mu_s N$
 > $\mu_s$ = coefficient of static friction (grippiness)
