@@ -18,3 +18,7 @@ If $F_{applied} < f_{s,max}$ -> NOTHING moves.
 > **Kinetic:** $f_k = \mu_k N$  (constant, does NOT grow)
 > $\mu_k$ is ALWAYS less than $\mu_s$
 > That's why it's easier to KEEP pushing than to START pushing.
+
+
+![Lecture 08 - Friction](Images/Lecture08-1.png)
+![Lecture 08 - Friction](Images/Lecture08-2.png)
