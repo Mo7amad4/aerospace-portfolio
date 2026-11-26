@@ -9,6 +9,7 @@ Friction is NOT a fixed force. It ADAPTS to you, until it can't anymore.
 ##  Static Friction (not moving)
 > **Static:** $f_s = F_{applied}$  (it matches you exactly)
 > **Max static:** $f_{s,max} = \mu_s N$
+
 > $\mu_s$ = coefficient of static friction (grippiness)
 
 If $F_{applied} < f_{s,max}$ -> NOTHING moves.
