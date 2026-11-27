@@ -9,4 +9,4 @@
 
 
 ## This is how my two-stage water rocket should look after designing and assembling:
-![Rocket - desing](openrocket-design/VFinal-design.png)
+![Rocket - design](openrocket-design/VFinal-design.png)
